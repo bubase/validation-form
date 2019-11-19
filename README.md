@@ -6,4 +6,4 @@
 ### Тренировка использования регулярных выражений и работы с Git.
 
 ## Ссылка на проект: 
-### https://github.com/bubase/validation-form
+### https://bubase.github.io/validation-form
